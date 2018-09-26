@@ -13,7 +13,7 @@ db.on('error', console.error.bind(console, 'connection error:'));
 
 // use sessions for tracking logins
 app.use(session({
-  secret: 'yolo project okay google alexa play siri',
+  secret: 'i like coffee',
   resave: true,
   saveUninitialized: false,
   store: new MongoStore({
