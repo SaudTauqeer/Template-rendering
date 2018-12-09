@@ -1,2 +1,2 @@
 # User Authentication With Express and Mongo
- An old project i made while back as for now it only contains limited features such as users can login, save data into mongoDB, encrypted using bcryptjs and can re-login. uses express-session. Planning to add more features to it along the way such as recommendations, admin panel, and a socket.io based app were friends on this site can chat with each other after they are friends. 
+ An old project i made while back as for now it only contains limited features such as users can login, save data into mongoDB, encrypted using bcryptjs and can re-login. uses express-session. 
